@@ -20,9 +20,9 @@ OBJECTIVES: The objective of the game is to find a way out of the dungeon. Obtai
 - F5: open bug report
 <img width="1031" height="578" alt="Screenshot 2026-05-15 151007" src="https://github.com/user-attachments/assets/fa22f73d-55f7-407f-9420-5a7d63208154" />
 
-HOW TO INSTALL: download the build zip file and then extract it. Once extracted double click to run the game. It is a unity package so it will have the unity icon. To uninstall just delete the package/unzipped folder.
+HOW TO INSTALL: download the build zip file and then extract it. Once extracted double click to run the game. It is a unity package so it will have the unity icon. To uninstall just delete the package/unzipped folder. 
 
-**KNOWN ISSUES:**
+**KNOWN ISSUES:** If you encounter any bugs then use the bug report in the game!!
 - Sprite sorting — assets may appear in front of or behind one another incorrectly
 - Enemies walk into or get stuck in corners and objects due to pathfinding limitations
 - Inventory bug where items may disappear when inventory is full or the backpack is toggled
