@@ -7,12 +7,11 @@ OBJECTIVES: The objective of the game is to find a way out of the dungeon. Obtai
 <img width="1029" height="578" alt="Screenshot 2026-05-15 150824" src="https://github.com/user-attachments/assets/4aa03b09-de83-4535-8d6c-9670aa5b39ed" />
 
 **CONTROLS:**
-- WASD: movement — character moves toward the mouse direction
+- WASD movement or WASD/Mouse movement or WS/Mouse movement
 - Left Shift: sprint
 - P: pause the game
-- F: interact
-- E: equip items
-- U: use items
+- F/Left Click: interact
+- E/Double Click: equip/use items
 - Scroll: cycle hotbar slots
 - Right-click: block (or remove a selected hotbar item)
 - Left-click: attack (select items when inventory is open)
@@ -25,7 +24,7 @@ HOW TO INSTALL: download the build zip file and then extract it. Once extracted 
 **KNOWN ISSUES:** If you encounter any bugs then use the bug report in the game!!
 - Sprite sorting — assets may appear in front of or behind one another incorrectly
 - Enemies walk into or get stuck in corners and objects due to pathfinding limitations
-- Inventory bug where items may disappear when inventory is full or the backpack is toggled
+- Inventory bug where items may be overrided by other items
 - Audio SFX may randomly play or loop unexpectedly during gameplay
 
 <img width="1029" height="576" alt="Screenshot 2026-05-15 150947" src="https://github.com/user-attachments/assets/729048d8-9481-440a-baab-f54457075d04" />
